@@ -1,0 +1,137 @@
+name: 'Timothy Steeno'
+info:
+meta:
+  format: FRESH@0.6.0
+  version: 0.1.0
+location:
+  city: 'Austin, TX'
+  region: ""
+  country: ""
+  code: '78729'
+  address: '13231 Dime Box Trl'
+employment:
+  history:
+    -
+      position: 'Director, Organic Product Performance'
+      employer: 'Yodle (Web.com)'
+      summary: ""
+      current: true
+      start: 'April 2016'
+      end: ""
+      url: 'http://www.yodle.com/'
+      keywords: []
+      highlights:
+        - 'Responsible for organic lead performance for 30K small businesses and franchises across the US and Canada. Direct a 12-person team of SEO analysts, operations analysts and data scientists to scale the launch of hundreds of new accounts weekly, monitor our large client base for issues, and continually improve performance through hypothesis testing and automation.'
+        - 'Designed and executed tests to remove a recurring cost component from our product due to underperformance, with a projected EBITDA savings of ~$2MM through 2017. Absorbed $300K/year in headcount reductions through automation and role expansion.'
+    -
+      position: 'Sr. Manager, Marketing Data Analytics'
+      employer: 'Yodle (Web.com)'
+      summary: ""
+      start: 'August 2014'
+      end: 'April 2016'
+      url: 'http://www.yodle.com/'
+      keywords: []
+      highlights:
+        - 'Managed the Analysis and Projects team for the Organic product team at Yodle. Improved our YoY lead volume from -22% to +60% in one year, adding a full 1.5 leads/client over that year for over 25K clients. Expanded three additional HC and reduced 1.5 FTE in manual tasks through automation.'
+        - 'Instituted the use of project tracking (JIRA), version control, and repeatable code-based analysis across our analytics team to launch dozens of product performance tests. Instituted Python and R training programs to move team off Excel to more repeatable and verifiable methods.'
+    -
+      position: 'Sr. Analyst, Data Science'
+      employer: 'Electronic Arts'
+      summary: ""
+      start: 2013-04
+      end: 2014-08
+      url: ""
+      keywords: []
+      highlights:
+        - 'Initiated data mining project to identify potential predictive factors to our enterprise customer satisfaction metric. Created a decision tree model using R that predicts satisfaction with 90% accuracy using a small set of factors. Recommended actions that significantly contributed to a 23% increase in customer satisfaction year over year. Used this insight to create an enterprise wide scorecard and ranking system for FY15 designed to drive improvement in the most significant factor for satisfaction.'
+        - 'Instituted educational program to advance team knowledge of data science and machine learning techniques, including classes on statistics, programming, language processing, and data presentation. Contributed articles to our corporate wiki including repeatable analysis using various data mining techniques. '
+    -
+      position: 'Forecasting Analyst'
+      employer: 'Electronic Arts'
+      summary: ""
+      start: 2012-04
+      end: 2013-04
+      url: 'http://www.ea.com'
+      keywords: []
+      highlights: []
+    -
+      position: 'Sr Quantitative Analyst'
+      employer: ARGO
+      summary: ""
+      start: 2007-03
+      end: 2012-04
+      url: 'http://argodata.com/'
+      keywords: []
+      highlights:
+        - 'Established and managed the Analytical Sciences Group, a team of five analysts and developers. Reported to CEO for product roadmap, marketing materials, service revenue processes and expansion plan responsibilities.'
+        - 'Developed time series forecasting model for branch workforce staffing including configurability for seasonal patterns, special events, weekly, monthly and long-term trends. Design also included a queue model for wait time analysis and a schedule optimization algorithm. '
+        - 'Leveraged forecasting components to design and develop model for branch and ATM cash optimization. Included components for currency and denominational forecasting. By end of tenure, forecasting software had generated over $1MM in software and service revenue for Argo with five planned customer installs.'
+        - 'Created banking CRM application for predicting risk of attrition and future customer value using classification trees and logistic regression. Led analysis to identify potential predictive factors, designed data collection and scoring system, as well as testing and customer implementation processes.'
+        - 'Initiated research effort into fuzzy search methods, resulting in creation of new record linkage product. Reduced license dependency and overall TCO for current banking customers and created new horizontal business opportunity in healthcare patient matching.'
+        - 'Designed internal use models using Excel, including cost benefit analysis, staff demand forecasting, and system issue prevention and monitoring.'
+    -
+      position: 'Entry Level Programmer'
+      employer: ARGO
+      summary: ""
+      start: 2006-09
+      end: 2007-03
+      url: 'http://argodata.com/'
+      keywords: []
+      highlights:
+        - 'Responsible for development of application reporting, data warehouse structures and ETL processes. Implemented two major process improvements for report requirements gathering and quality assurance, as well as corporate education program.'
+education:
+  level: ""
+  history:
+    -
+      institution: 'University of North Texas'
+      start: ""
+      end: 2006-08
+      grade: ""
+      curriculum: []
+      summary: ""
+      area: 'Denton, TX'
+      studyType: 'Bachelor of Science in Mathematics'
+service:
+skills:
+  sets:
+    -
+      name: Python
+      level: ""
+      skills:
+        - NumPy
+        - scikit-learn
+        - pandas
+        - NLTK
+        - gensim
+        - word2vec
+    -
+      name: R
+      level: ""
+      skills:
+        - broom
+    -
+      name: Tableau
+      level: ""
+      skills: []
+    -
+      name: SQL
+      level: ""
+      skills:
+        - PostgreSQL
+        - MySQL
+        - 'MS SQL Server'
+writing: []
+social:
+  -
+    label: Linkedin
+    network: Linkedin
+    url: www.linkedin.com/in/timothy-steeno
+    user: ""
+  -
+    label: Twitter
+    network: Twitter
+    url: ""
+    user: '@Tim_Steeno'
+interests: []
+testimonials: 0
+languages: []

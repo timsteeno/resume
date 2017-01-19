@@ -1,0 +1,147 @@
+{
+  "basics": {
+    "name": "Timothy Steeno",
+    "location": {
+      "address": "13231 Dime Box Trl",
+      "postalCode": "78729",
+      "city": "Austin, TX",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "",
+        "url": "www.linkedin.com/in/timothy-steeno"
+      },
+      {
+        "network": "Twitter",
+        "username": "@Tim_Steeno",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Yodle (Web.com)",
+      "website": "http://www.yodle.com/",
+      "position": "Director, Organic Product Performance",
+      "startDate": "April 2016",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Responsible for organic lead performance for 30K small businesses and franchises across the US and Canada. Direct a 12-person team of SEO analysts, operations analysts and data scientists to scale the launch of hundreds of new accounts weekly, monitor our large client base for issues, and continually improve performance through hypothesis testing and automation.",
+        "Designed and executed tests to remove a recurring cost component from our product due to underperformance, with a projected EBITDA savings of ~$2MM through 2017. Absorbed $300K/year in headcount reductions through automation and role expansion."
+      ]
+    },
+    {
+      "company": "Yodle (Web.com)",
+      "website": "http://www.yodle.com/",
+      "position": "Sr. Manager, Marketing Data Analytics",
+      "startDate": "August 2014",
+      "endDate": "April 2016",
+      "summary": "",
+      "highlights": [
+        "Managed the Analysis and Projects team for the Organic product team at Yodle. Improved our YoY lead volume from -22% to +60% in one year, adding a full 1.5 leads/client over that year for over 25K clients. Expanded three additional HC and reduced 1.5 FTE in manual tasks through automation.",
+        "Instituted the use of project tracking (JIRA), version control, and repeatable code-based analysis across our analytics team to launch dozens of product performance tests. Instituted Python and R training programs to move team off Excel to more repeatable and verifiable methods."
+      ]
+    },
+    {
+      "company": "Electronic Arts",
+      "website": "",
+      "position": "Sr. Analyst, Data Science",
+      "startDate": "2013-04",
+      "endDate": "2014-08",
+      "summary": "",
+      "highlights": [
+        "Initiated data mining project to identify potential predictive factors to our enterprise customer satisfaction metric. Created a decision tree model using R that predicts satisfaction with 90% accuracy using a small set of factors. Recommended actions that significantly contributed to a 23% increase in customer satisfaction year over year. Used this insight to create an enterprise wide scorecard and ranking system for FY15 designed to drive improvement in the most significant factor for satisfaction.",
+        "Instituted educational program to advance team knowledge of data science and machine learning techniques, including classes on statistics, programming, language processing, and data presentation. Contributed articles to our corporate wiki including repeatable analysis using various data mining techniques. "
+      ]
+    },
+    {
+      "company": "Electronic Arts",
+      "website": "http://www.ea.com",
+      "position": "Forecasting Analyst",
+      "startDate": "2012-04",
+      "endDate": "2013-04",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "ARGO",
+      "website": "http://argodata.com/",
+      "position": "Sr Quantitative Analyst",
+      "startDate": "2007-03",
+      "endDate": "2012-04",
+      "summary": "",
+      "highlights": [
+        "Established and managed the Analytical Sciences Group, a team of five analysts and developers. Reported to CEO for product roadmap, marketing materials, service revenue processes and expansion plan responsibilities.",
+        "Developed time series forecasting model for branch workforce staffing including configurability for seasonal patterns, special events, weekly, monthly and long-term trends. Design also included a queue model for wait time analysis and a schedule optimization algorithm. ",
+        "Leveraged forecasting components to design and develop model for branch and ATM cash optimization. Included components for currency and denominational forecasting. By end of tenure, forecasting software had generated over $1MM in software and service revenue for Argo with five planned customer installs.",
+        "Created banking CRM application for predicting risk of attrition and future customer value using classification trees and logistic regression. Led analysis to identify potential predictive factors, designed data collection and scoring system, as well as testing and customer implementation processes.",
+        "Initiated research effort into fuzzy search methods, resulting in creation of new record linkage product. Reduced license dependency and overall TCO for current banking customers and created new horizontal business opportunity in healthcare patient matching.",
+        "Designed internal use models using Excel, including cost benefit analysis, staff demand forecasting, and system issue prevention and monitoring."
+      ]
+    },
+    {
+      "company": "ARGO",
+      "website": "http://argodata.com/",
+      "position": "Entry Level Programmer",
+      "startDate": "2006-09",
+      "endDate": "2007-03",
+      "summary": "",
+      "highlights": [
+        "Responsible for development of application reporting, data warehouse structures and ETL processes. Implemented two major process improvements for report requirements gathering and quality assurance, as well as corporate education program."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of North Texas",
+      "gpa": "",
+      "courses": [],
+      "startDate": "",
+      "endDate": "2006-08",
+      "area": "Denton, TX",
+      "studyType": "Bachelor of Science in Mathematics"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": [
+        "NumPy",
+        "scikit-learn",
+        "pandas",
+        "NLTK",
+        "gensim",
+        "word2vec"
+      ]
+    },
+    {
+      "name": "R",
+      "level": "",
+      "keywords": [
+        "broom"
+      ]
+    },
+    {
+      "name": "Tableau",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": [
+        "PostgreSQL",
+        "MySQL",
+        "MS SQL Server"
+      ]
+    }
+  ],
+  "interests": [],
+  "references": 0,
+  "languages": []
+}
