@@ -32,7 +32,7 @@
       "company": "Yodle (Web.com)",
       "position": "Director, Organic Product Performance",
       "website": "http://www.yodle.com/",
-      "startDate": "April 2016",
+      "startDate": "2016-04",
       "endDate": "",
       "summary": "",
       "highlights": [
@@ -44,8 +44,8 @@
       "company": "Yodle (Web.com)",
       "position": "Sr. Manager, Marketing Data Analytics",
       "website": "http://www.yodle.com/",
-      "startDate": "August 2014",
-      "endDate": "April 2016",
+      "startDate": "2014-08",
+      "endDate": "2016-04",
       "summary": "",
       "highlights": [
         "Managed the Analysis and Projects team for the Organic product team at Yodle. Improved our YoY lead volume from -22% to +60% in one year, adding a full 1.5 leads/client over that year for over 25K clients. Expanded three additional HC and reduced 1.5 FTE in manual tasks through automation.",
@@ -55,7 +55,7 @@
     {
       "company": "Electronic Arts",
       "position": "Sr. Analyst, Data Science",
-      "website": "",
+      "website": "http://www.ea.com",
       "startDate": "2013-04",
       "endDate": "2014-08",
       "summary": "",
@@ -71,7 +71,10 @@
       "startDate": "2012-04",
       "endDate": "2013-04",
       "summary": "",
-      "highlights": []
+      "highlights": [
+        "Designed, developed, and managed a software project to migrate our forecasting capabilities from a manual SQL task to a Python application more suited for rapid modification and forecast creation. Increased our forecast accuracy and granular capabilities and eliminated over a hundred man-hours of effort per month that were refocused towards accuracy rather than execution."
+        "Produced global contact demand forecasts under a tight monthly cadence. Managed budget constrained and unconstrained forecasts. Developed relationships with studios to collect information and report resulting costs."
+      ]
     },
     {
       "company": "ARGO",
